@@ -56,8 +56,8 @@ int boilerplate(char *path) {
 
 int main(int argc, char *argv[]) {
   if (argc < 3) {
-    printf("Usage: proj -f filepath\n");
-    printf("-b: add boilerplate\n");
+    printf("Usage: proj -f filepath\n" 
+	   "-b: boilerplate\n");
     return -1;
   }
   int currentArg;
