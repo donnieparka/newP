@@ -25,11 +25,11 @@
     "src": {
       "flake": false,
       "locked": {
-        "lastModified": 1728156774,
-        "narHash": "sha256-jnciA4ifzx9KN1/uMLR9S/oBJlNW42QQOCR52tjUfDU=",
+        "lastModified": 1732226399,
+        "narHash": "sha256-B8xFoV1IL0hUJVKoPgv3Mudww0IvpOsOYZScfuTlC54=",
         "owner": "donnieparka",
         "repo": "newP",
-        "rev": "b698cd74d52fe7af0cdec057cd06a14f66fa7c9f",
+        "rev": "7c4944618d9e889c82a445b74d960ddb398a887f",
         "type": "github"
       },
       "original": {

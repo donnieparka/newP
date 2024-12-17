@@ -53,9 +53,11 @@ int boilerplate(char *path) {
   printf("file creato, lavora figlio di puttana");
   return 0;
 }
+
 int main(int argc, char *argv[]) {
   if (argc < 3) {
-    printf("Usage: proj -f filepath");
+    printf("Usage: proj -f filepath\n");
+    printf("-b: add boilerplate\n");
     return -1;
   }
   int currentArg;

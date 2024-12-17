@@ -1,5 +1,5 @@
 {
-  description = "A very basic flake";
+  description = "create a new project and already creato boilerplates";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
